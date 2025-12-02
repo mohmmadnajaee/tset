@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cloud Computing Project</title>
+</head>
+<body>
+
+    <h1>Cloud Computing Project</h1>
+    
+    <h2>Group Information</h2>
+    <p><strong>Group Number:</strong> 8</p>
+    
+    <h3>Team Members:</h3>
+    <ul>
+        <li>Mohammed Ahmed Hanin Al-Najai - 202507569</li>
+        <li>Mohammed Khalid Hamdi - 202507950</li>
+        <li>Mousa Mohammed Balgas - 202505978</li>
+        <li>Mohammed Ahmed Alwani - 202508394</li>
+    </ul>
+    
+    <h3>About Cloud Computing:</h3>
+    <p>This project discusses cloud computing and its components. Cloud computing is the delivery of computing services over the internet, including servers, storage, databases, networking, software, and analytics.</p>
+    
+    <h4>Cloud Computing Components:</h4>
+    <ul>
+        <li>Infrastructure as a Service (IaaS)</li>
+        <li>Platform as a Service (PaaS)</li>
+        <li>Software as a Service (SaaS)</li>
+        <li>Cloud Storage</li>
+        <li>Virtualization</li>
+    </ul>
+    
+    <img src="cloud.jpg" alt="Cloud Computing Image" width="300">
+    
+    <br><br>
+    
+    <a href="https://drive.google.com">Google Drive Project Folder</a>
+
+</body>
+</html>
